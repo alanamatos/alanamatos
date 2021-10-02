@@ -1,4 +1,4 @@
-### Hi! I am Alana Matos.
+### Hi! I'm Alana Matos.
 
 
 
