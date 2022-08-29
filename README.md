@@ -12,9 +12,9 @@
 Colocarei aqui uma **LISTA DE TAREFAS**, para as boas almas que gostarem do meu trabalho e quiserem, quem sabe, me dar uma vaga de estágio :3 
 
 *Lista de tarefas da semana, de 24/08 até 31/08*
-- Terminar o curso de Git e GitHub do Curso em Vídeo, disponível gratuitamente no Youtube.
+- Terminar o curso de Git e GitHub do Curso em Vídeo, disponível gratuitamente no Youtube. (OK)
 - Finalizar aprendizados de HTML e CSS.
 - Fazer um site para uma cliente, de forma gratuita, para divulgar meu trabalho e ganhar mais experiência.
 - Assistir todos os dias uma aula do curso de Java Script e Type Script.
-- Fazer atividades do meu curso (Produção de Texto Individual das disciplinas: Análise de Sistemas, Ética e Sustentabilidade e Banco de Dados.
+- Fazer atividades do meu curso (Produção de Texto Individual das disciplinas: Análise de Sistemas, Ética e Banco de Dados).
 - Divulgar todos os trabalhos acima no LinkedIn.
