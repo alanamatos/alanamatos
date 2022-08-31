@@ -16,5 +16,5 @@ Colocarei aqui uma **LISTA DE TAREFAS**, para as boas almas que gostarem do meu 
 - Finalizar aprendizados de HTML e CSS.
 - Fazer um site para uma cliente, de forma gratuita, para divulgar meu trabalho e ganhar mais experiência.
 - Assistir todos os dias uma aula do curso de Java Script e Type Script.
-- Fazer atividades do meu curso (Produção de Texto Individual das disciplinas: Análise de Sistemas, Ética e Banco de Dados).
 - Divulgar todos os trabalhos acima no LinkedIn.
+- Fazer atividades do meu curso (Produção de Texto Individual das disciplinas: Análise de Sistemas, Ética e Banco de Dados).
